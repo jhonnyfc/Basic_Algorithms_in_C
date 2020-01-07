@@ -1,4 +1,4 @@
-# Basic-_Algorithms
+# Basic_Algorithms
 
 A compilation of basic algorithms of sorting, divide and rule, Greedy algorithm and dynamic programming.
 
