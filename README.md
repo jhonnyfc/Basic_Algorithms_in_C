@@ -1,5 +1,15 @@
 # Basic_Algorithms
 
-A compilation of basic algorithms of sorting, divide and rule, Greedy algorithm and dynamic programming.
+A compilation of basic algorithms:
+- search
+- sorting
+- divide and rule
+- Greedy algorithm
+- dynamic programming.
 
-Compilación de algoritmos basicos de busqueda, divide y venceras, algortimos voraces y programacion dinámica.
+Compilación de algoritmos basicos:
+ - busqueda
+ - ordenacion
+ - divide y venceras
+ - algortimos voraces
+ - programacion dinámica.
