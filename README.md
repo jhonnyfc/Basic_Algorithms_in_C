@@ -9,7 +9,8 @@ Compilación de algoritmos basicos:
  - divide y venceras: busqueda, ordenacion
  - algortimos voraces
  - programacion dinámica.
-
+<pre>
 ### Compilacion y ejecucion:
- - Para compilar y ejecutar se acompaña cada carpeta con un *Makefile*
- - Realizar en el terminal de linux -> make X  // X es el numero del ejercicio a construir
+ - Para compilar y ejecutar se acompaña cada carpeta con un **Makefile
+   Realizar en el terminal de linux:  make X      // X es el numero del ejercicio a construir
+</pre>
